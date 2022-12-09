@@ -1,0 +1,47 @@
+.among-us{
+  text-align: center; 
+}
+ion-title{
+   text-align: center;
+}
+.sus{
+   width: 25px;
+   height: 25px;
+   float: right;
+   margin-top: 10px;
+}
+/* iOS places the subtitle above the title */
+ion-card-header.ios {
+   display: flex;
+   flex-flow: column-reverse;
+ }
+/* iOS places the subtitle above the title */
+ion-card-header.ios {
+   display: flex;
+   flex-flow: column-reverse;
+   
+ }
+.tabs{
+ position: fixed;
+}
+.tamaño{
+  width: 1500;
+  height: 150px;
+}
+.button{
+  text-align: center;
+  margin: 30px;
+
+}
+h1{
+  margin-left: 20px;
+}
+.cat{
+  padding: 20px;
+  width: 150px;
+  height: 150px;
+  border-radius: 35px;
+}
+ion-grid{
+  text-align: center;
+}
